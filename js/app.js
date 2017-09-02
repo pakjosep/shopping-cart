@@ -5,27 +5,27 @@ var itemDB = [{
     price: 145.11
 
 }, {
-    image: "",
+    image: "https://i.ytimg.com/vi/qzOi4CP8QQI/maxresdefault.jpg",
     product: "Fried Water",
     description: "Gain weight without even knowing it!",
     price: 69.57
 }, {
-    image: "",
+    image: "https://i0.wp.com/vitalityair.com/wp-content/uploads/2016/03/VA_Air_8L_3pack-1.jpg?fit=3475%2C2780&ssl=1",
     product: "Diet Air",
     description: "Lose a minimum of 100 lbs. with Diet Air!",
     price: 1240.58
 }, {
-    image: "",
+    image: "https://i.ytimg.com/vi/ub5dKi0EiX8/hqdefault.jpg",
     product: "Balloon made from Pennywise",
     description: "Wanna balloon?",
     price: 93.46
 }, {
-    image: "",
+    image: "http://puppyloveblog.com/scaled/600x450/taro-the-black-labrador-puppy-and-his-sad-puppy-dog-eyes-451.jpg",
     product: "Matches",
     description: "My owner force fed me carrots. Please adopt me.",
     price: 0.01
 }, {
-    image: "",
+    image: "https://www.marijuanabreak.com/wp-content/uploads/2017/02/Special-Brownies-1.jpg",
     product: "Devleague Brownies",
     description: "Bring to any pot-luck....",
     price: 9.99

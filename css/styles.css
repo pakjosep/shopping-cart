@@ -2,7 +2,7 @@
 #topSign{
 	background-color: orange;
 	display: inline-block;
-	padding:20px;
+	padding:10px;
 	position:absolute;
 	top:0;
 	left:0;
@@ -14,7 +14,8 @@
 #cartPic{
 	display: inline-block;
 	padding-right: 30px;
-	padding-left:10px;
+	padding-left:20px;
+	padding-top:20px;
 	width: 70px;
 }
 #cartName{
@@ -49,8 +50,8 @@
 
             .media {
                 margin-bottom: 2em;
-                padding: 10px;
-                border-top: 1px solid gray;
+                padding:20px;
+               
                 border-bottom: 1px solid gray;
             }
 
